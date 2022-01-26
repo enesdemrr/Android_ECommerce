@@ -1,5 +1,5 @@
 # Android_ECommerce
-The purpose of this application is to list and order products. The application is intended to order through service.
+The purpose of this application is to list and order products. The application is intended to order with using service.
 
 <p>         
   <a href="https://github.com/enesdemrr/Android_ECommerce/blob/main/app_images/1.png" target="_blank">
