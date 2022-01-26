@@ -2,7 +2,7 @@
 The purpose of this application is to list and order products. The application is intended to order with using service.
 | Email  |Password   |
 | :------------: | :------------: |
-| :lock newreg@mail.com| :person 1234567  |
+| 📧 newreg@mail.com| 🔒 1234567  |
 <p>         
   <a href="https://github.com/enesdemrr/Android_ECommerce/blob/main/app_images/1.png" target="_blank">
     <img src="https://github.com/enesdemrr/Android_ECommerce/blob/main/app_images/1.png" width="200" style="max-width:100%;"></a>
